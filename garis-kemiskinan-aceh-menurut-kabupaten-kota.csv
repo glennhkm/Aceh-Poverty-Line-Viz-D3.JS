@@ -1,0 +1,415 @@
+bps_kode_provinsi,bps_nama_provinsi,bps_kode_kabupaten_kota,bps_nama_kabupaten_kota,tahun,periode_bulan,angka_garis_kemiskinan,satuan
+11,Aceh,1101,Kabupaten Simeulue,2005,September,181102,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2005,September,168566,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2005,September,172427,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2005,September,145487,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2005,September,193755,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2005,September,213832,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2005,September,221402,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2005,September,250416,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2005,September,209216,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2005,September,168496,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2005,September,164343,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2005,September,147016,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2005,September,198398,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2005,September,183064,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2005,September,204919,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2005,September,182677,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2005,September,207813,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2005,September,,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2005,September,276736,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2005,September,195493,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2005,September,132703,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2005,September,150486,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2005,September,,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2006,September,201689,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2006,September,191539,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2006,September,186227,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2006,September,151263,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2006,September,210094,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2006,September,232783,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2006,September,265514,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2006,September,259910,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2006,September,232598,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2006,September,186844,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2006,September,177098,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2006,September,176979,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2006,September,201566,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2006,September,196461,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2006,September,235306,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2006,September,200165,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2006,September,233786,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2006,September,,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2006,September,317435,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2006,September,256447,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2006,September,157377,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2006,September,166202,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2006,September,,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2007,September,216518,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2007,September,208087,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2007,September,196167,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2007,September,155423,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2007,September,221862,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2007,September,246435,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2007,September,297287,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2007,September,266749,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2007,September,249440,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2007,September,200060,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2007,September,186286,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2007,September,198562,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2007,September,203848,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2007,September,206110,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2007,September,257193,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2007,September,212762,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2007,September,252495,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2007,September,228601,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2007,September,346750,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2007,September,300351,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2007,September,175149,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2007,September,177523,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2007,September,166693,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2008,September,253123,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2008,September,213997,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2008,September,203761,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2008,September,165925,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2008,September,256739,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2008,September,283307,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2008,September,335955,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2008,September,285876,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2008,September,277688,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2008,September,214801,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2008,September,218970,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2008,September,231460,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2008,September,231260,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2008,September,240753,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2008,September,288593,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2008,September,215382,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2008,September,272217,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2008,September,274078,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2008,September,362992,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2008,September,310697,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2008,September,199628,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2008,September,194884,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2008,September,168953,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2009,September,255471,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2009,September,257778,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2009,September,236741,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2009,September,170569,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2009,September,264671,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2009,September,305619,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2009,September,341606,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2009,September,308440,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2009,September,312476,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2009,September,242576,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2009,September,229559,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2009,September,231758,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2009,September,232481,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2009,September,274295,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2009,September,294493,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2009,September,254156,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2009,September,274560,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2009,September,309857,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2009,September,414172,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2009,September,368637,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2009,September,248283,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2009,September,246539,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2009,September,201149,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2010,September,278023,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2010,September,280534,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2010,September,257640,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2010,September,185626,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2010,September,288036,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2010,September,332598,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2010,September,371762,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2010,September,324096,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2010,September,328337,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2010,September,263990,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2010,September,249824,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2010,September,252217,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2010,September,253004,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2010,September,298509,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2010,September,320490,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2010,September,267057,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2010,September,298798,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2010,September,337211,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2010,September,435195,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2010,September,401180,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2010,September,270201,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2010,September,268303,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2010,September,218906,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2011,September,300467,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2011,September,304414,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2011,September,278854,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2011,September,201449,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2011,September,312927,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2011,September,360044,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2011,September,402636,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2011,September,351800,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2011,September,355618,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2011,September,286617,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2011,September,271150,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2011,September,274089,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2011,September,275000,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2011,September,322629,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2011,September,346154,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2011,September,291333,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2011,September,322853,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2011,September,365477,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2011,September,477669,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2011,September,438111,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2011,September,293333,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2011,September,290838,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2011,September,238423,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2012,September,303138,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2012,September,308917,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2012,September,281158,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2012,September,203116,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2012,September,316131,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2012,September,365375,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2012,September,407442,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2012,September,352112,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2012,September,359367,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2012,September,289058,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2012,September,273334,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2012,September,276324,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2012,September,277250,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2012,September,328599,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2012,September,349550,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2012,September,296921,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2012,September,325576,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2012,September,369440,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2012,September,485543,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2012,September,443848,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2012,September,296195,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2012,September,293348,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2012,September,240118,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2013,September,305600,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2013,September,316319,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2013,September,283446,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2013,September,206797,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2013,September,319392,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2013,September,370670,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2013,September,413061,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2013,September,352451,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2013,September,361707,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2013,September,292308,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2013,September,274799,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2013,September,283117,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2013,September,279420,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2013,September,331218,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2013,September,353231,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2013,September,303209,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2013,September,327652,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2013,September,373497,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2013,September,493558,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2013,September,451218,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2013,September,298749,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2013,September,293788,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2013,September,241189,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2014,September,307596,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2014,September,322413,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2014,September,285301,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2014,September,209811,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2014,September,322385,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2014,September,374989,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2014,September,417641,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2014,September,352751,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2014,September,363791,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2014,September,295294,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2014,September,276137,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2014,September,288713,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2014,September,281178,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2014,September,336767,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2014,September,356221,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2014,September,308891,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2014,September,329550,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2014,September,376795,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2014,September,500768,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2014,September,457242,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2014,September,301089,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2014,September,297189,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2014,September,242054,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2015,September,311351,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2015,September,351409,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2015,September,288619,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2015,September,212025,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2015,September,328048,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2015,September,380858,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2015,September,424227,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2015,September,366676,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2015,September,374031,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2015,September,301027,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2015,September,280683,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2015,September,292323,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2015,September,286882,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2015,September,343246,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2015,September,361359,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2015,September,316304,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2015,September,338719,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2015,September,380371,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2015,September,523444,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2015,September,475111,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2015,September,307260,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2015,September,303155,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2015,September,244628,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2016,Maret,326563,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2016,Maret,368968,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2016,Maret,304466,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2016,Maret,221799,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2016,Maret,350186,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2016,Maret,397859,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2016,Maret,441909,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2016,Maret,384545,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2016,Maret,393370,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2016,Maret,317562,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2016,Maret,301733,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2016,Maret,306930,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2016,Maret,301546,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2016,Maret,368691,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2016,Maret,374236,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2016,Maret,331940,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2016,Maret,363796,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2016,Maret,399377,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2016,Maret,541732,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2016,Maret,492787,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2016,Maret,323246,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2016,Maret,319988,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2016,Maret,250408,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2017,Maret,350622,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2017,Maret,406015,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2017,Maret,332177,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2017,Maret,250854,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2017,Maret,369911,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2017,Maret,427170,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2017,Maret,446614,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2017,Maret,398752,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2017,Maret,408150,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2017,Maret,335314,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2017,Maret,318729,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2017,Maret,329543,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2017,Maret,323482,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2017,Maret,389459,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2017,Maret,400811,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2017,Maret,356060,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2017,Maret,383289,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2017,Maret,429966,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2017,Maret,572295,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2017,Maret,523705,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2017,Maret,347056,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2017,Maret,343558,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2017,Maret,273370,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2018,Maret,368068,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2018,Maret,427804,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2018,Maret,351288,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2018,Maret,340196,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2018,Maret,398493,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2018,Maret,445250,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2018,Maret,447089,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2018,Maret,422051,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2018,Maret,435873,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2018,Maret,358399,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2018,Maret,340086,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2018,Maret,340903,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2018,Maret,368583,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2018,Maret,420841,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2018,Maret,426827,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2018,Maret,373690,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2018,Maret,413208,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2018,Maret,448201,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2018,Maret,607391,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2018,Maret,552272,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2018,Maret,371267,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2018,Maret,367525,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2018,Maret,315453,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2019,Maret,404739,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2019,Maret,450217,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2019,Maret,369107,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2019,Maret,357015,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2019,Maret,417715,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2019,Maret,468577,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2019,Maret,471058,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2019,Maret,447563,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2019,Maret,462059,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2019,Maret,393198,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2019,Maret,353856,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2019,Maret,358059,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2019,Maret,387893,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2019,Maret,437991,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2019,Maret,446144,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2019,Maret,391677,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2019,Maret,431643,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2019,Maret,455995,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2019,Maret,628493,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2019,Maret,563100,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2019,Maret,380906,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2019,Maret,376832,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2019,Maret,351093,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2020,Maret,444754,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2020,Maret,473983,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2020,Maret,405786,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2020,Maret,392493,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2020,Maret,440455,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2020,Maret,492227,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2020,Maret,517264,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2020,Maret,477938,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2020,Maret,493145,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2020,Maret,410203,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2020,Maret,375394,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2020,Maret,393640,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2020,Maret,425529,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2020,Maret,459387,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2020,Maret,493121,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2020,Maret,428094,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2020,Maret,457916,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2020,Maret,481308,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2020,Maret,674977,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2020,Maret,599381,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2020,Maret,407421,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2020,Maret,401158,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2020,Maret,400517,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2021,Maret,458896,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2021,Maret,487249,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2021,Maret,418689,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2021,Maret,404725,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2021,Maret,460422,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2021,Maret,505933,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2021,Maret,533712,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2021,Maret,489498,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2021,Maret,504452,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2021,Maret,422685,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2021,Maret,392412,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2021,Maret,406157,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2021,Maret,438689,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2021,Maret,479801,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2021,Maret,508801,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2021,Maret,441706,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2021,Maret,476074,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2021,Maret,495254,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2021,Maret,698617,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2021,Maret,620373,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2021,Maret,435438,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2021,Maret,427045,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2021,Maret,418643,Rupiah/Kapita/Bulan
+11,Aceh,1101,Kabupaten Simeulue,2022,Maret,493303,Rupiah/Kapita/Bulan
+11,Aceh,1102,Kabupaten Aceh Singkil,2022,Maret,518951,Rupiah/Kapita/Bulan
+11,Aceh,1103,Kabupaten Aceh Selatan,2022,Maret,446224,Rupiah/Kapita/Bulan
+11,Aceh,1104,Kabupaten Aceh Tenggara,2022,Maret,430825,Rupiah/Kapita/Bulan
+11,Aceh,1105,Kabupaten Aceh Timur,2022,Maret,491550,Rupiah/Kapita/Bulan
+11,Aceh,1106,Kabupaten Aceh Tengah,2022,Maret,533810,Rupiah/Kapita/Bulan
+11,Aceh,1107,Kabupaten Aceh Barat,2022,Maret,558638,Rupiah/Kapita/Bulan
+11,Aceh,1108,Kabupaten Aceh Besar,2022,Maret,519320,Rupiah/Kapita/Bulan
+11,Aceh,1109,Kabupaten Pidie,2022,Maret,535713,Rupiah/Kapita/Bulan
+11,Aceh,1110,Kabupaten Bireuen,2022,Maret,451163,Rupiah/Kapita/Bulan
+11,Aceh,1111,Kabupaten Aceh Utara,2022,Maret,420615,Rupiah/Kapita/Bulan
+11,Aceh,1112,Kabupaten Aceh Barat Daya,2022,Maret,430297,Rupiah/Kapita/Bulan
+11,Aceh,1113,Kabupaten Gayo Lues,2022,Maret,470221,Rupiah/Kapita/Bulan
+11,Aceh,1114,Kabupaten Aceh Tamiang,2022,Maret,508599,Rupiah/Kapita/Bulan
+11,Aceh,1115,Kabupaten Nagan Raya,2022,Maret,544300,Rupiah/Kapita/Bulan
+11,Aceh,1116,Kabupaten Aceh Jaya,2022,Maret,468854,Rupiah/Kapita/Bulan
+11,Aceh,1117,Kabupaten Bener Meriah,2022,Maret,512111,Rupiah/Kapita/Bulan
+11,Aceh,1118,Kabupaten Pidie Jaya,2022,Maret,523239,Rupiah/Kapita/Bulan
+11,Aceh,1171,Kota Banda Aceh,2022,Maret,737016,Rupiah/Kapita/Bulan
+11,Aceh,1172,Kota Sabang,2022,Maret,660573,Rupiah/Kapita/Bulan
+11,Aceh,1173,Kota Langsa,2022,Maret,469348,Rupiah/Kapita/Bulan
+11,Aceh,1174,Kota Lhokseumawe,2022,Maret,460583,Rupiah/Kapita/Bulan
+11,Aceh,1175,Kota Subulussalam,2022,Maret,444814,Rupiah/Kapita/Bulan
