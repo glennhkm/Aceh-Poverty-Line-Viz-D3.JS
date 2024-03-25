@@ -1,4 +1,4 @@
-d3.csv("../garis-kemiskinan-aceh-menurut-kabupaten-kota.csv").then((data) => {
+d3.csv("https://raw.githubusercontent.com/glennhkm/Visualisasi-Garis-Kemiskinan-Provinsi-Aceh/main/garis-kemiskinan-aceh-menurut-kabupaten-kota.csv").then((data) => {
   data = data.filter((item) => item.tahun > 2015);
 
   const grouppedData = d3.group(data, (d) => d.bps_nama_kabupaten_kota);
